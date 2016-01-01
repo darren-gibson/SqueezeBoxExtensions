@@ -3,10 +3,10 @@
   <name>PLUGIN_CORS_HEADER</name>
   <creator>Darren Gibson</creator>
   <defaultState>enabled</defaultState>
-  <description>PLUGIN_CORS_HEADER</description>
+  <description>PLUGIN_CORS_HEADER_DESC</description>
   <email>darrengibs@gmail.com</email>
   <homepageURL>https://github.com/darren-gibson</homepageURL>
-  <module>Plugins::CorsHeader::Plugin</module>
+  <module>Slim::Plugin::CorsHeader::Plugin</module>
   <targetApplication>
     <id>SlimServer</id>
     <maxVersion>*</maxVersion>
