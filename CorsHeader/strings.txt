@@ -1,0 +1,5 @@
+PLUGIN_CORS_HEADER
+	EN	Add CORS Header Support 
+    
+ PLUGIN_CORS_HEADER_DESC
+	EN	This plugin adds CORS headers to the Logitech Media Server response messages to enable support for cross origin scripting.

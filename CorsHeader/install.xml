@@ -1,0 +1,17 @@
+<?xml version='1.0' standalone='yes'?>
+<extension>
+  <name>PLUGIN_CORS_HEADER</name>
+  <creator>Darren Gibson</creator>
+  <defaultState>enabled</defaultState>
+  <description>PLUGIN_CORS_HEADER</description>
+  <email>darrengibs@gmail.com</email>
+  <homepageURL>https://github.com/darren-gibson</homepageURL>
+  <module>Plugins::CorsHeader::Plugin</module>
+  <targetApplication>
+    <id>SlimServer</id>
+    <maxVersion>*</maxVersion>
+    <minVersion>7.0a</minVersion>
+  </targetApplication>
+  <type>2</type>
+  <version>0.1</version>
+</extension>
