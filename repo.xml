@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+
+<extensions>
+
+  <details>
+	<title lang="EN">Darrens Logitech Media Server Extensions</title>
+  </details>	
+
+  <plugins>
+
+ 	<plugin name="CorsHeader" version="0.1" minTarget="7.0" maxTarget="*">
+	  <title lang="EN">CORS Header</title>
+	  <desc  lang="EN">This plugin adds CORS headers to the Logitech Media Server response messages to enable support for cross origin scripting.</desc>
+	  <creator>Darren Gibson</creator>
+	  <email>darrengibs@gmail.com</email>
+	  <url>https://github.com/darren-gibson/SqueezeBoxExtensions/blob/master/CorsHeader.zip?raw=true</url>
+	  <sha>62d87c9acccdc8f3852b55ed0f42a965b46edb8f</sha>
+	</plugin>
+
+  </plugins>
+
+</extensions>
